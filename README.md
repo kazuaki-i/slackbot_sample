@@ -14,8 +14,9 @@
     - botを作成したいteamにログインしている状態で、以下にアクセス
       - https://my.slack.com/services/new/bot
     - 名前を決定した画面後に表示される”API Token”をメモ
-    
-      <img src="  https://github.com/kazuaki-i/slackbot_sample/blob/images/images/Bot_create.png?raw=true" alt="API_Token" width="50%"> bot作成画面
+
+      <img src=" https://github.com/kazuaki-i/slackbot_sample/blob/images/images/Bot_create.png?raw=true" alt="API_Token" width="50%"> bot作成画面
+
       <img src="https://github.com/kazuaki-i/slackbot_sample/blob/images/images/API_Token.png?raw=true" alt="API_Token" width="50%"> API_Tokenはメモる
     - また、作成したbotを活動させたいチャンネルに招待しておく
 
