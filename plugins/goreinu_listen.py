@@ -12,9 +12,7 @@ IsGoreinu = False
 @listen_to("ゴレイヌ")
 def swither(message):
     global IsGoreinu
-    if IsGoreinu == 1:
-        pass
-    elif IsGoreinu:
+    if IsGoreinu:
         IsGoreinu = False
         text = "*** ゴレイヌさんがログアウトしました ***"
     else:
